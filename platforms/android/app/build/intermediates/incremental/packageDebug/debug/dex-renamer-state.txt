@@ -1,0 +1,4 @@
+#Mon Jul 01 16:25:42 IDT 2019
+base.0=/home/regevbr/WebstormProjects/WebstormProjects/cordova-plugin-inappbrowser-bug/platforms/android/app/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex

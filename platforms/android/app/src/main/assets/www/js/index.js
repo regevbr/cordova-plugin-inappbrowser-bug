@@ -28,6 +28,7 @@ var app = {
     // 'pause', 'resume', etc.
     onDeviceReady: function() {
         this.receivedEvent('deviceready');
+        window.open('https://api6.ipify.org/','test_iframe');
     },
 
     // Update DOM on a Received Event
